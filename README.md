@@ -11,7 +11,6 @@ This project is a machine learning-based web application that classifies news as
 - Python (Flask)
 - HTML, CSS
 - Machine Learning (NLP)
-- SQLite
 
 ## How to Run
 1. Install dependencies
